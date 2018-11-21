@@ -6,14 +6,19 @@
 Welcome to py-doc-test's documentation!
 =======================================
 
-.. module:: scripts
+This is my introduction to this project.
 
-ManaEgg
--------
+Requirements:
 
-.. autoclass:: ManaEgg
-    :members:
-    :undoc-members:
+My project depends on xyz packge.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   tutorial
+   code
 
 Indices and tables
 ==================
