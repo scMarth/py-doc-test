@@ -1,6 +1,7 @@
 Auto Generated Documentation
 ============================
 
-.. automodule:: manaegg
+.. module:: manaegg
+
+.. autoclass:: ManaEgg
    :members:
-   :undoc-members:

@@ -4,6 +4,7 @@ class ManaEgg(object):
 
     Parameters
     ----------
+    
     egg_name : str
         A string containing an Egg Name, e.g. "Flare"
 
